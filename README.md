@@ -13,7 +13,3 @@ Vistas:
 - contacto.html  →  Contacto
 - login.html  →  Iniciar sesión
 
-Tecnologías que usé:
-- HTML5 semántico
-- CSS3 (Flexbox, Grid, variables, transiciones y animaciones)
-- Diseño responsivo y modo claro/oscuro
